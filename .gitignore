@@ -1,0 +1,41 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Dependency directories
+env/
+lib/
+libs/
+
+# Local development settings
+*.bak
+*.swp
+*.sqlite3
+*.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.pyd
+*.o
+
+# Editor autosave
+*~
